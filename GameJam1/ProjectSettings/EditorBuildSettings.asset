@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/POLYGON city pack/scene/DemoScene.unity
+    guid: 7759de288f5d4ee449a0ca5e2244944a
+  - enabled: 1
+    path: "Assets/Scenes/Giri\u015F Ekran\u0131.unity"
+    guid: 5b5e36934ff3da54ebdf66e67f23f869
+  - enabled: 1
+    path: Assets/Tiny_Toony_City_Demo/Scenes/Demo_Scene2.unity
+    guid: 15828175b3a60364dbf8cebfe2d45934
+  m_configObjects: {}
